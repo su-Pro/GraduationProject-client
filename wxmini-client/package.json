@@ -1,0 +1,15 @@
+{
+  "name": "wxmini-client",
+  "version": "1.0.0",
+  "description": "- [ ] http请求方法 - [ ] 业务对象的提炼 - [ ] feature: theme + banner",
+  "main": "app.js",
+  "dependencies": {
+    "lin-ui": "~0.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
